@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jepkemoi-sheilah1
-- 👀 I’m interested in 
+- 👀 I’m interested in tech more especially developing functional websites.
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on  web development 
 - 📫 How to reach me github account jepkemoi-sheilah1
